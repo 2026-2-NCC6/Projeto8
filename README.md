@@ -1,5 +1,3 @@
-
-```markdown
 <div align="center">
 
 # Projeto Interdisciplinar - 🎾 Smart Tennis Arena
@@ -308,5 +306,3 @@ Os dados coletados geram eventos padronizados com carimbo de data/hora no contro
 Smart Tennis Arena © 2026.
 
 Este projeto foi desenvolvido para fins acadêmicos no curso de Ciência da Computação da FECAP, no contexto do Projeto Interdisciplinar do 6º semestre[cite: 1].
-
-```
