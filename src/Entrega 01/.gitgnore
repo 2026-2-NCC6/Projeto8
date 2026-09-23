@@ -1,0 +1,38 @@
+# =========================
+# Node.js, Bun e Frontend
+# =========================
+node_modules/
+dist/
+build/
+.bun/
+
+# =========================
+# Python (Visão Computacional)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# =========================
+# Variáveis de Ambiente (Segurança)
+# =========================
+.env
+.env.*
+!.env.example # Permite enviar um ficheiro de exemplo vazio
+
+# =========================
+# Logs e Ficheiros de Sistema
+# =========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# =========================
+# Configurações de Editores (Opcional)
+# =========================
+.vscode/
+.idea/
