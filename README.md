@@ -59,7 +59,7 @@ Dispositivo IoT (Arduino acendendo LEDs alvo)
 ## 👥 Integrantes
 
 - [Arthur Paltrinieri Silva](https://www.linkedin.com/in/arthur-paltrinieri/)
-- [Integrante 2](#)
+- [Fabiano Henrique Chou](https://www.linkedin.com/in/fabiano-chou-759b072b3/)
 - [Integrante 3](#)
 - [Integrante 4](#)
 
