@@ -67,11 +67,11 @@ Dispositivo IoT (Arduino acendendo LEDs alvo)
 
 ## 👨‍🏫 Professores Orientadores
 
-- Orientador(a) de Inovação e Empreendedorismo
-- Orientador(a) de Redes de Computadores e Cibersegurança
-- Orientador(a) de Sistemas Embarcados e Robótica
-- Orientador(a) de Teoria da Computação e Linguagens Formais
-- Orientador(a) de Projeto Interdisciplinar
+- Edson Ricardo Barbero
+- João Francisco Trencher Martins
+- Rodnil da Silva Moreira Lisboa
+- Katia Milani Lara Bossi
+- Victor Bruno Alexander Rosetti de Quiroz
 
 ---
 
