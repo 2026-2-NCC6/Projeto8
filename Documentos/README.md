@@ -15,16 +15,16 @@
 | **Trechos ou entregas afetadas** | Apoio à documentação da primeira entrega de Teoria da Computação e Linguagens Formais.   |
 
 
-### Disciplina 2
+### Inovação e Empreendedorismo 
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |Fabiano Henrique Chou |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | ChatGPT |
+| **Versão/modelo** | GPT-6 |
+| **Disciplina / Trabalho** | Inovação e Empreendedorismo – Primeira entrega: Análise da Oportunidade de Negócio. Projeto desenvolvido pelo grupo Sweet Spot |
+| **Finalidade de uso** | A inteligência artificial foi utilizada como ferramenta de apoio durante a elaboração do trabalho, auxiliando na interpretação das orientações do professor, organização da estrutura da apresentação, desenvolvimento e revisão dos textos, compreensão dos conceitos de mercado e TAM, levantamento de concorrentes e análise de soluções existentes. |
+| ***Prompts* principais utilizados** | Explique o que o professor solicita em cada etapa do trabalho. Ajude a estruturar os slides da primeira entrega.  Analise e melhore os textos sobre o contexto e o público-alvo. Explique o conceito de TAM e auxilie na elaboração dos cálculos e premissas. Identifique empresas e soluções existentes no mercado de treinamento de tênis. Compare concorrentes diretos, indiretos e alternativas utilizadas pelos praticantes.Ajude a identificar oportunidades de diferenciação para a proposta do projeto.|
+| **Trechos ou entregas afetadas** | A ferramenta auxiliou na elaboração e revisão dos seguintes conteúdo da apresentação:Contexto do mercado e do público-alvo. Definição e análise do público-alvo. Identificação e descrição do problema. Dimensionamento do mercado e estimativa do TAM. Levantamento e comparação de concorrentes e soluções existentes. Identificação da oportunidade de negócio.|
 
 ### Disciplina 3
 
@@ -51,16 +51,16 @@
 | **Trechos ou entregas afetadas** | Revisão da documentação da segunda entrega de Teoria da Computação e Linguagens Formais.  |
 
 
-### Disciplina 2
+### Inovação e Empreendedorismo 
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |Fabiano Henrique Chou |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | ChatGPT |
+| **Versão/modelo** | GPT-6 |
+| **Disciplina / Trabalho** | Inovação e Empreendedorismo - Segunda Entrega: Análise Estratégica da Startup Sweet Spot |
+| **Finalidade de uso** | Apoio na estruturação do trabalho acadêmico, aplicação das 5 Forças de Porter, elaboração do Business Model Canvas, simulações financeiras e revisão textual. |
+| ***Prompts* principais utilizados** | “Explique os requisitos da segunda entrega”; “Ajude a elaborar as 5 Forças de Porter para a Sweet Spot”; “Adapte as análises às características técnicas do protótipo”; “Elabore o Business Model Canvas”; “Desenvolva projeções financeiras e cenários de riscos”; “Revise a apresentação conforme os critérios do professor”. |
+| **Trechos ou entregas afetadas** | Análises das 5 Forças de Porter, Business Model Canvas, justificativa estratégica, projeções financeiras, análise de riscos, conclusão e revisão dos slides. |
 
 ### Disciplina 3
 
