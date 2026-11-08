@@ -26,16 +26,16 @@
 | ***Prompts* principais utilizados** | Explique o que o professor solicita em cada etapa do trabalho. Ajude a estruturar os slides da primeira entrega.  Analise e melhore os textos sobre o contexto e o público-alvo. Explique o conceito de TAM e auxilie na elaboração dos cálculos e premissas. Identifique empresas e soluções existentes no mercado de treinamento de tênis. Compare concorrentes diretos, indiretos e alternativas utilizadas pelos praticantes.Ajude a identificar oportunidades de diferenciação para a proposta do projeto.|
 | **Trechos ou entregas afetadas** | A ferramenta auxiliou na elaboração e revisão dos seguintes conteúdo da apresentação:Contexto do mercado e do público-alvo. Definição e análise do público-alvo. Identificação e descrição do problema. Dimensionamento do mercado e estimativa do TAM. Levantamento e comparação de concorrentes e soluções existentes. Identificação da oportunidade de negócio.|
 
-### Disciplina 3
+### Projeto Interdisciplinar: Internet das Coisas e Robótica 
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |Aluno(a)	Marcelo Henrique de Souza|
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | Versão/modelo	3.8 Flash |
+| **Disciplina / Trabalho** | Primeira entrega: planejamento da construção física da solução desenvolvida para o Projeto Integrado |
+| **Finalidade de uso** | A inteligência artificial foi utilizada como ferramenta de apoio durante a elaboração do trabalho, auxiliando na interpretação das orientações do professor, organização da estrutura da apresentação, desenvolvimento e revisão dos textos, organização dos tópicos, construção de um documento bem estruturado e por fim fontes bibliograficas que ajudassem na construção do documento. |
+| ***Prompts* principais utilizados** | Com o contexto do projeto quero que me ajude a estruturar um  passo a passo do inicio do projeto ate a etapa de entrega, seguindo as orientações que o professor disponibilizou. Me traga fontes bibliográficas para me ajudar a escrever o documento.  |
+| **Trechos ou entregas afetadas** | A ferramenta auxiliou na elaboração e revisão dos seguintes conteúdo da apresentação: Definição do passo a passo. Identificação e descrição do problema. Levantamento e estruturação de tabelas. Levantamento de fontes bibliográficas para auxílio da construção do documento.|
 
 ## Entrega 2
 <br><br>
@@ -62,16 +62,16 @@
 | ***Prompts* principais utilizados** | “Explique os requisitos da segunda entrega”; “Ajude a elaborar as 5 Forças de Porter para a Sweet Spot”; “Adapte as análises às características técnicas do protótipo”; “Elabore o Business Model Canvas”; “Desenvolva projeções financeiras e cenários de riscos”; “Revise a apresentação conforme os critérios do professor”. |
 | **Trechos ou entregas afetadas** | Análises das 5 Forças de Porter, Business Model Canvas, justificativa estratégica, projeções financeiras, análise de riscos, conclusão e revisão dos slides. |
 
-### Disciplina 3
+### Projeto Interdisciplinar: Internet das Coisas e Robótica 
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |Aluno(a)	Marcelo Henrique de Souza|
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
-| ***Prompts* principais utilizados** | [preencher] |
-| **Trechos ou entregas afetadas** | [preencher] |
+| **Ferramenta utilizada** | Gemini |
+| **Versão/modelo** | Versão/modelo	3.8 Flash |
+| **Disciplina / Trabalho** | cada grupo deverá apresentar exclusivamente os avanços realizados desde a primeira entrega (NI1). |
+| **Finalidade de uso** | Apenas para correção ortográfica e montagem do documento. |
+| ***Prompts* principais utilizados** | Quero que pegue meu texto e faça as correções ortográficas necessárias e monte um arquivo word. |
+| **Trechos ou entregas afetadas** | Correções ortográficas e construção do arquivo. |
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
