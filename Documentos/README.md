@@ -6,12 +6,14 @@
 
 ### Disciplina 1
 
-| **Aluno(s) Responsável(veis)** |[preencher] |
+| **Aluno(s) Responsável(veis)** |[Arthur Paltrinieri] |
 | :--- | :--- |
-| **Ferramenta utilizada** | [preencher] |
-| **Versão/modelo** | [preencher] |
-| **Disciplina / Trabalho** | [preencher] |
-| **Finalidade de uso** | [preencher] |
+| **Ferramenta utilizada** | [Gemini] |
+| **Versão/modelo** | [3.1 Pro] |
+| **Disciplina / Trabalho** | [Entrega 1 - Teoria da Computação e Linguagens Formais] |
+| **Finalidade de uso** | [Apoio à modelagem formal do comportamento do Sweet Spot e à 
+revisão da correspondência com as demandas da disciplina e o 
+funcionamento descrito em prompt do sistema. ] |
 | ***Prompts* principais utilizados** | [preencher] |
 | **Trechos ou entregas afetadas** | [preencher] |
 
