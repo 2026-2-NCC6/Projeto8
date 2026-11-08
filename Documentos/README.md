@@ -3,7 +3,6 @@
 
 ## Entrega 1
 <br><br>
-
 ### Teoria da Computação e Linguagens Formais 
 
 | **Aluno(s) Responsável(veis)** |Arthur Paltrinieri |
@@ -40,7 +39,6 @@
 
 ## Entrega 2
 <br><br>
-
 ### Teoria da Computação e Linguagens Formais 
 
 | **Aluno(s) Responsável(veis)** |Arthur Paltrinieri |
