@@ -37,6 +37,17 @@
 | ***Prompts* principais utilizados** | Com o contexto do projeto quero que me ajude a estruturar um  passo a passo do inicio do projeto ate a etapa de entrega, seguindo as orientações que o professor disponibilizou. Me traga fontes bibliográficas para me ajudar a escrever o documento.  |
 | **Trechos ou entregas afetadas** | A ferramenta auxiliou na elaboração e revisão dos seguintes conteúdo da apresentação: Definição do passo a passo. Identificação e descrição do problema. Levantamento e estruturação de tabelas. Levantamento de fontes bibliográficas para auxílio da construção do documento.|
 
+### Redes de Computadores e Cibersegurança 
+
+| **Aluno(s) Responsável(veis)** | Beatriz de Souza Santos Rio Branco |
+| :--- | :--- |
+| **Ferramenta utilizada** | Ferramenta utilizada	ChatGPT (OpenAI) |
+| **Versão/modelo** | Versão/modelo	GPT-6 |
+| **Disciplina / Trabalho** | Redes de Computadores e Cibersegurança - Projeto Interdisciplinar Sweet Spot - 1ª entrega (24/09/2026): Plano de Gerenciamento de Riscos. |
+| **Finalidade de uso** | apoio na interpretação do modelo de gerenciamento de riscos e na redação e organização do plano. A IA auxiliou a relacionar riscos técnicos, elétricos, de segurança e de integração aos componentes do Sweet Spot (Python/YOLO/OpenCV, Arduino, câmeras, LEDs e comunicação serial), além de estruturar metodologia, categorias, responsabilidades, matriz de probabilidade e impacto e acompanhamento. |
+| ***Prompts* principais utilizados** | Exemplos representativos das solicitações: “Preencha o Plano de Gerenciamento de Riscos com os riscos reais do Sweet Spot, mantendo a estrutura do modelo do professor”; “Considere o código de visão computacional, o Arduino, a ligação dos LEDs, a comunicação serial e a segurança do protótipo”; “Gere o PDF preenchido”. |
+| **Trechos ou entregas afetadas** | Introdução e metodologia; papéis e responsabilidades; orçamento e cronograma; categorias de riscos; definições e matriz de probabilidade e impacto; tolerância ao risco; relatórios e acompanhamento; estruturação e formatação do PDF. |
+
 ## Entrega 2
 <br><br>
 ### Teoria da Computação e Linguagens Formais 
@@ -72,6 +83,17 @@
 | **Finalidade de uso** | Apenas para correção ortográfica e montagem do documento. |
 | ***Prompts* principais utilizados** | Quero que pegue meu texto e faça as correções ortográficas necessárias e monte um arquivo word. |
 | **Trechos ou entregas afetadas** | Correções ortográficas e construção do arquivo. |
+
+### Redes de Computadores e Cibersegurança 
+
+| **Aluno(s) Responsável(veis)** | Beatriz de Souza Santos Rio Branco |
+| :--- | :--- |
+| **Ferramenta utilizada** | Ferramenta utilizada	ChatGPT (OpenAI) |
+| **Versão/modelo** | Versão/modelo	GPT-6 |
+| **Disciplina / Trabalho** | Redes de Computadores e Cibersegurança - Projeto Interdisciplinar Sweet Spot - 2ª entrega (02/11/2026): Plano de Respostas aos Riscos. |
+| **Finalidade de uso** | Apoio no preenchimento do plano de respostas conforme a evolução do protótipo, incluindo o uso de LEDs convencionais e registradores 74HC595. A IA ajudou a formular estratégias de mitigação, prevenção, aceitação e exploração, com ações, responsáveis, prazos e status, e a organizar o arquivo final em PDF. |
+| ***Prompts* principais utilizados** | Solicitação principal: “Preciso preencher este documento. Utilize todo o contexto que você tem do nosso projeto Sweet Spot”; complementada pelo fornecimento do modelo de Plano de Respostas aos Riscos e das atualizações sobre montagem, controladores 74HC595 e testes. Os prompts acima estão apresentados como síntese/exemplos das interações, não como transcrição integral do histórico.|
+| **Trechos ou entregas afetadas** | tabela de respostas (riscos de detecção/calibração, ligações de LEDs e 74HC595, corrente, soldagem, comunicação, processamento, simulação com isopor, integração, orçamento, segurança elétrica e dados); estratégias de resposta; monitoramento e revisão; organização do PDF.As características do protótipo, decisões de montagem e revisão do conteúdo são de responsabilidade da equipe Sweet Spot.|
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
