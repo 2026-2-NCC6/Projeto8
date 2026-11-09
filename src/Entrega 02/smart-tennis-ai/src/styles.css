@@ -1,0 +1,205 @@
+/* Fonte do slide (Sweet Spot - BMC) - deve ser o primeiro @import */
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap");
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *, .auth *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+  --radius-3xl: calc(var(--radius) + 12px);
+  --radius-4xl: calc(var(--radius) + 16px);
+  --font-display: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-court: var(--court);
+  --color-navy: var(--navy);
+  --color-lime: var(--lime);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-ring-offset-background: var(--background);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+/*
+  Paleta extraída do slide "Sweet Spot - BMC":
+  navy   #0F172A  -> fundo da capa / login
+  slate  #475569  -> texto secundário
+  slate  #94A3B8  -> texto secundário sobre navy
+  slate  #E2E8F0  -> bordas
+  slate  #F8FAFC  -> fundo alternado
+  white  #FFFFFF  -> fundo das páginas
+  lime   #84CC16  -> destaque verde (barras, números, labels)
+*/
+
+/* Páginas internas: fundo branco + verde como destaque */
+:root {
+  --radius: 0.75rem;
+  --navy: oklch(0.208 0.04 266);          /* #0F172A */
+  --lime: oklch(0.768 0.204 131);         /* #84CC16 */
+  --background: oklch(1 0 0);             /* #FFFFFF */
+  --foreground: oklch(0.208 0.04 266);    /* #0F172A */
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.208 0.04 266);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.208 0.04 266);
+  --primary: oklch(0.768 0.204 131);      /* verde #84CC16 */
+  --primary-foreground: oklch(0.208 0.04 266); /* navy sobre verde (contraste) */
+  --secondary: oklch(0.984 0.003 248);    /* #F8FAFC */
+  --secondary-foreground: oklch(0.208 0.04 266);
+  --muted: oklch(0.984 0.003 248);
+  --muted-foreground: oklch(0.446 0.037 257); /* #475569 */
+  --accent: oklch(0.967 0.066 122);       /* verde bem claro */
+  --accent-foreground: oklch(0.532 0.141 132); /* verde escuro */
+  --destructive: oklch(0.577 0.229 27.2);
+  --destructive-foreground: oklch(0.995 0 0);
+  --success: oklch(0.768 0.204 131);
+  --success-foreground: oklch(0.208 0.04 266);
+  --warning: oklch(0.78 0.15 78);
+  --warning-foreground: oklch(0.25 0.03 78);
+  --court: oklch(0.68 0.13 155);
+  --border: oklch(0.929 0.013 256);       /* #E2E8F0 */
+  --input: oklch(0.929 0.013 256);
+  --ring: oklch(0.768 0.204 131);
+  --chart-1: oklch(0.768 0.204 131);
+  --chart-2: oklch(0.208 0.04 266);
+  --chart-3: oklch(0.532 0.141 132);
+  --chart-4: oklch(0.711 0.035 257);
+  --chart-5: oklch(0.78 0.15 78);
+  --sidebar: oklch(1 0 0);
+  --sidebar-foreground: oklch(0.208 0.04 266);
+  --sidebar-primary: oklch(0.768 0.204 131);
+  --sidebar-primary-foreground: oklch(0.208 0.04 266);
+  --sidebar-accent: oklch(0.967 0.066 122);
+  --sidebar-accent-foreground: oklch(0.532 0.141 132);
+  --sidebar-border: oklch(0.929 0.013 256);
+  --sidebar-ring: oklch(0.768 0.204 131);
+}
+
+/* Login / auth: fundo azul escuro (navy) + verde. Use <main class="auth"> */
+.dark,
+.auth {
+  --background: oklch(0.208 0.04 266);    /* #0F172A */
+  --foreground: oklch(1 0 0);
+  --card: oklch(0.279 0.037 260);         /* #1E293B */
+  --card-foreground: oklch(1 0 0);
+  --popover: oklch(0.279 0.037 260);
+  --popover-foreground: oklch(1 0 0);
+  --primary: oklch(0.768 0.204 131);
+  --primary-foreground: oklch(0.208 0.04 266);
+  --secondary: oklch(0.279 0.037 260);
+  --secondary-foreground: oklch(1 0 0);
+  --muted: oklch(0.279 0.037 260);
+  --muted-foreground: oklch(0.711 0.035 257); /* #94A3B8 */
+  --accent: oklch(0.32 0.06 135);
+  --accent-foreground: oklch(0.849 0.207 129); /* verde claro */
+  --destructive: oklch(0.63 0.22 27.2);
+  --destructive-foreground: oklch(0.99 0 0);
+  --success: oklch(0.768 0.204 131);
+  --success-foreground: oklch(0.208 0.04 266);
+  --warning: oklch(0.8 0.14 78);
+  --warning-foreground: oklch(0.2 0.03 78);
+  --court: oklch(0.6 0.12 155);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.768 0.204 131);
+  --chart-1: oklch(0.768 0.204 131);
+  --chart-2: oklch(0.929 0.013 256);
+  --chart-3: oklch(0.849 0.207 129);
+  --chart-4: oklch(0.711 0.035 257);
+  --chart-5: oklch(0.8 0.14 78);
+  --sidebar: oklch(0.279 0.037 260);
+  --sidebar-foreground: oklch(1 0 0);
+  --sidebar-primary: oklch(0.768 0.204 131);
+  --sidebar-primary-foreground: oklch(0.208 0.04 266);
+  --sidebar-accent: oklch(0.32 0.06 135);
+  --sidebar-accent-foreground: oklch(0.849 0.207 129);
+  --sidebar-border: oklch(1 0 0 / 12%);
+  --sidebar-ring: oklch(0.768 0.204 131);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  .auth {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+  }
+}
+
+@utility stat-number {
+  font-family: var(--font-display);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+/* Detalhes do slide: label verde, barra de destaque e card com sombra suave */
+@utility eyebrow {
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-primary);
+}
+
+@utility accent-bar {
+  border-left: 3px solid var(--color-primary);
+}
+
+@utility card-soft {
+  background-color: var(--color-card);
+  border-radius: var(--radius-xl);
+  box-shadow: 0 4px 14px oklch(0.208 0.04 266 / 12%);
+}
