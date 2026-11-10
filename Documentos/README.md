@@ -48,6 +48,18 @@
 | ***Prompts* principais utilizados** | Exemplos representativos das solicitações: “Preencha o Plano de Gerenciamento de Riscos com os riscos reais do Sweet Spot, mantendo a estrutura do modelo do professor”; “Considere o código de visão computacional, o Arduino, a ligação dos LEDs, a comunicação serial e a segurança do protótipo”; “Gere o PDF preenchido”. |
 | **Trechos ou entregas afetadas** | Introdução e metodologia; papéis e responsabilidades; orçamento e cronograma; categorias de riscos; definições e matriz de probabilidade e impacto; tolerância ao risco; relatórios e acompanhamento; estruturação e formatação do PDF. |
 
+
+### Sistemas Embarcados e Robótica
+
+| **Aluno(s) Responsável(veis)** |Arthur Paltrinieri |
+| :--- | :--- |
+| **Ferramenta utilizada** | ChatGPT |
+| **Versão/modelo** | GPT 6.0  |
+| **Disciplina / Trabalho** | Entrega 1 - Sistemas Embarcados e Robótica  |
+| **Finalidade de uso** | Auxílio na estruturação do relatório de testes práticos, orientações sobre como documentar o esquema elétrico do Tinkercad e dicas para descrever as medições de tensão e corrente dos componentes (como os LEDs e sensores) de forma clara.  |
+| ***Prompts* principais utilizados** | Me ajude a montar um relatório simples paraa a Entrega 01 de Sistemas embarcados. Estamos usando arduino, leds e fios. A demanda requere para a primeira entrega a documentação do processo de montagem e os testes de circuitos basicos. Como eu poderia estruturar isso? Considere q o esquema eletrico vai ser feito via Tinkercad e dê-me algumas ideias de como colocar as medições de tensão e corrente de uma forma aderente à solicitação do documento |
+| **Trechos ou entregas afetadas** | Estrutura geral do relatório de montagem, seção de descrição dos testes realizados e organização dos resultados das medições de tensão e corrente. |
+
 ## Entrega 2
 <br><br>
 ### Teoria da Computação e Linguagens Formais 
@@ -94,6 +106,17 @@
 | **Finalidade de uso** | Apoio no preenchimento do plano de respostas conforme a evolução do protótipo, incluindo o uso de LEDs convencionais e registradores 74HC595. A IA ajudou a formular estratégias de mitigação, prevenção, aceitação e exploração, com ações, responsáveis, prazos e status, e a organizar o arquivo final em PDF. |
 | ***Prompts* principais utilizados** | Solicitação principal: “Preciso preencher este documento. Utilize todo o contexto que você tem do nosso projeto Sweet Spot”; complementada pelo fornecimento do modelo de Plano de Respostas aos Riscos e das atualizações sobre montagem, controladores 74HC595 e testes. Os prompts acima estão apresentados como síntese/exemplos das interações, não como transcrição integral do histórico.|
 | **Trechos ou entregas afetadas** | tabela de respostas (riscos de detecção/calibração, ligações de LEDs e 74HC595, corrente, soldagem, comunicação, processamento, simulação com isopor, integração, orçamento, segurança elétrica e dados); estratégias de resposta; monitoramento e revisão; organização do PDF.As características do protótipo, decisões de montagem e revisão do conteúdo são de responsabilidade da equipe Sweet Spot.|
+
+### Sistemas Embarcados e Robótica
+
+| **Aluno(s) Responsável(veis)** |Arthur Paltrinieri |
+| :--- | :--- |
+| **Ferramenta utilizada** | ChatGPT |
+| **Versão/modelo** | GPT 6.0  |
+| **Disciplina / Trabalho** | Entrega 1 - Sistemas Embarcados e Robótica  |
+| **Finalidade de uso** | Apoio na elaboração e estruturação do código em C++ para o Arduino, especificamente na lógica para ler as entradas dos sensores (acerto da bola) e controlar os LEDs em cadeia utilizando o registrador de deslocamento (74HC595), além de ajudar a redigir a explicação teórica desse funcionamento.  |
+| ***Prompts* principais utilizados** | Agora, ainda nesse projeto que nos baseamos para a primeira entrega. A segunda entrega solicita um código lendo um sensor e controlando um atuador, além da sua explicação lógica. Cria um código em C++ para o Arduino do Sweet Spot lendo o sensor de modo a simular o aerto da bolinha e acendendo os leds dos alvos. obs: detalhe: usa a logica do registrador de deslocamento 74HC595 pra ligar os leds em cadeia e economizar as portas do arduino. dps escreve a explicacao teorica dessa logica pra eu colar direto no doc da entrega. |
+| **Trechos ou entregas afetadas** | Arquivo do código-fonte (lógica de leitura do sensor e acionamento dos LEDs) e o trecho do documento final que explica o funcionamento e a lógica de controle dos componentes. |
 
 ***Declaro que o uso acima descrito está em conformidade com o GUIA PARA O USO RESPONSÁVEL DE
 INTELIGÊNCIA ARTIFICIAL NA FECAP e que o conteúdo final é de minha plena responsabilidade
